@@ -53,7 +53,7 @@ flex-wrap: wrap;
 }
 
 .car-2 {
-    background-image: url('Styles/Pics/MYC_0497.jpg');
+    background-image: url('MYC_0497.jpg');
     background-size: cover;
     height: 170px;
     margin-bottom: 15px;
@@ -61,7 +61,7 @@ flex-wrap: wrap;
 }
 
 .car-3 {
-    background-image: url('Styles/Pics/MYC_0509.jpg');
+    background-image: url('MYC_0509.jpg');
     background-size: cover;
     height: 170px;
     margin-bottom: 15px;
@@ -70,7 +70,7 @@ flex-wrap: wrap;
 
 
 .car-4 {
-    background-image: url('WebPic/DocP1.jpg');
+    background-image: url('DocP1.jpg');
     background-size: cover;
     height: 170px;
     margin-bottom: 15px;
@@ -78,7 +78,7 @@ flex-wrap: wrap;
 }
 
 .car-5 {
-    background-image: url('Styles/Pics/MYC_0734.jpg');
+    background-image: url('MYC_0734.jpg');
     background-size: cover;
     height: 170px;
     margin-bottom: 15px;
