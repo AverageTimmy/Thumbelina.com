@@ -1,0 +1,170 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('WebPic/Sky2.jpg');
+    background-repeat: no-repeat;
+
+}
+
+.container {
+padding-top: 160px;
+font-size: 15px;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+
+.card {
+    background-color: rgb(238, 248, 248);
+    width: 220px;
+    height: 400px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.image-item {
+    border-radius: 15px;
+}
+
+.image-item:hover {
+    color: white;
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: all 1s ease;
+  }
+  
+
+.card-image {
+    height: 150px;
+    margin-bottom: 150px;
+    border-radius: 15px 15px 0 0;
+}
+
+
+.car-1 {
+    background-image: url('Styles/Pics/MYC_0602.jpg');
+    background-size: cover;
+    height: 170px;
+    margin-bottom: 15px;
+
+}
+
+.car-2 {
+    background-image: url('Styles/Pics/MYC_0497.jpg');
+    background-size: cover;
+    height: 170px;
+    margin-bottom: 15px;
+
+}
+
+.car-3 {
+    background-image: url('Styles/Pics/MYC_0509.jpg');
+    background-size: cover;
+    height: 170px;
+    margin-bottom: 15px;
+
+}
+
+
+.car-4 {
+    background-image: url('WebPic/DocP1.jpg');
+    background-size: cover;
+    height: 170px;
+    margin-bottom: 15px;
+
+}
+
+.car-5 {
+    background-image: url('Styles/Pics/MYC_0734.jpg');
+    background-size: cover;
+    height: 170px;
+    margin-bottom: 15px;
+
+}
+
+
+.card-p {
+    padding: 10%;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.card-a {
+    size: 10px;
+    color: rgb(14, 131, 131);
+    padding: 15px 10px;
+    display: block;
+    text-align: center;
+    margin: 20px 40px;
+    text-decoration: none;
+    border-style: none;
+    font-weight: bold;
+    display: flex;
+}
+
+
+
+
+.card-h2 {
+    padding: 10px;
+}
+
+.card:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+    
+  
+  .thumbnail:hover {
+    opacity: 0.6;
+    transition: all .15s ease-in-out;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+    box-sizing: border-box;
+    text-size-adjust: 100%;
+    transform: scale(1.05);
+    transition: all 0.2s ease;
+      }
+       
+  
+  .heading {
+    display: block;
+    padding-top: 1%;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Arial;
+    
+  }
+  
+  
+  .img-container {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 500px;;
+  }
+  
+  .number {
+    padding-top: 15px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    position: relative;
+    font-stretch: 100%;
+   
+  }
+   
+   

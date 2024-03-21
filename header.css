@@ -1,0 +1,42 @@
+.header {
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.left-section {
+    width: 200px;
+}
+
+.thumbnail {
+    width: 120px;
+}
+
+
+.right-section {
+    margin-right: 10px;
+    display: flex;
+    margin-left: 20px;
+}
+
+.middle-section {
+    display: flex;
+    flex: 1;
+    margin-right: 100px;
+   
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    margin-right: 140px;
+    margin-top: 150px;
+    font-size: 60px;
+    font-weight: bold;
+} 
